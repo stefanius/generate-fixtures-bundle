@@ -12,8 +12,7 @@
         "php": ">=5.4",
         "symfony/symfony": "~2.5",
         "doctrine/inflector": "dev-master",
-        "doctrine/doctrine-fixtures-bundle": "~2.2",
-
+        "doctrine/doctrine-fixtures-bundle": "~2.2"
     },
     "autoload": {
         "psr-4": { "Stef\\GenerateFixturesBundle\\": "src/Stef/GenerateFixturesBundle/" }
