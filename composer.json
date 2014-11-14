@@ -1,0 +1,21 @@
+{
+    "name": "stef/generate-fixtures-bundle",
+    "description": "Generate fixtures  for use with Alice!",
+    "authors": [
+        {
+            "name": "Stefanius",
+            "email": "sgrootveld@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.4",
+        "symfony/symfony": "~2.5",
+        "doctrine/inflector": "dev-master",
+        "doctrine/doctrine-fixtures-bundle": "~2.2",
+
+    },
+    "autoload": {
+        "psr-4": { "Stef\\GenerateFixturesBundle\\": "src/Stef/GenerateFixturesBundle/" }
+    }
+}
