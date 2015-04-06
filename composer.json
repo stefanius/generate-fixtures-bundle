@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.4",
         "symfony/symfony": "~2.5",
-        "doctrine/inflector": "dev-master",
+        "doctrine/inflector": "1.0.1",
         "doctrine/doctrine-fixtures-bundle": "~2.2"
     },
     "autoload": {
