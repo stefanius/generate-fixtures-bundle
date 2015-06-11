@@ -10,8 +10,6 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=5.4",
-        "doctrine/inflector": "1.0.1",
-        "doctrine/doctrine-fixtures-bundle": "~2.2"
     },
     "autoload": {
         "psr-4": { "Stef\\GenerateFixturesBundle\\": "src/Stef/GenerateFixturesBundle/" }
